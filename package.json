@@ -19,6 +19,7 @@
   "author": "Travis Collins <travis@tec27.com> (http://tec27.com/)",
   "license": "WTFPL",
   "dependencies": {
-    "request": "~2.9.203"
+    "request": "~2.9.203",
+    "bigdecimal": "~0.6.1"
   }
 }
